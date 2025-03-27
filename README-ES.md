@@ -35,7 +35,7 @@ Text-to-Speech es una poderosa herramienta que convierte casi cualquier archivo 
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/text-to-speech.git
+   git clone https://github.com/sergio-usma/text-to-speech.git
    cd text-to-speech
    ```
 
