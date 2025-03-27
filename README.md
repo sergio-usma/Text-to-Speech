@@ -73,7 +73,7 @@ Convert a complete PDF or EPUB file to audio:
 python text_to_speech.py
 # Select option 1
 # Enter the text language (1: Spanish, 2: English)
-# Provide the full path to the file
+# Provide the full path to the file without quotes. Example: C:\Users\xyz\Desktop\file.pdf
 ```
 
 ### 2️⃣ Merge existing audio chunks
