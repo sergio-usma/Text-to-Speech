@@ -35,7 +35,7 @@ Text-to-Speech is a powerful tool that converts almost any text file (PDF, EPUB)
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/text-to-speech.git
+   git clone https://github.com/sergio-usma/text-to-speech.git
    cd text-to-speech
    ```
 
