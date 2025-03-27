@@ -4,7 +4,7 @@
 [![OpenAI API](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/blog/openai-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Text-to-Speech is a powerful tool that converts almost any text file (PDF, EPUB) to high-fidelity audio using the OpenAI API and advanced audio processing techniques for an exceptional listening experience.
+Text-to-Speech is a powerful tool that converts almost any text file (TXT, PDF, EPUB) to high-fidelity audio using the OpenAI API and advanced audio processing techniques for an exceptional listening experience.
 
 ## 🌟 Features
 
@@ -65,7 +65,7 @@ Text-to-Speech is a powerful tool that converts almost any text file (PDF, EPUB)
 
 The script offers three main functionalities:
 
-### 1️⃣ Process a file (PDF/EPUB → Audio)
+### 1️⃣ Process a file (TXT/PDF/EPUB → Audio)
 
 Convert a complete PDF or EPUB file to audio:
 
